@@ -99,17 +99,6 @@ Android food-ordering app built in **Kotlin**: browse restaurants, explore menus
 
 ---
 
-## GitHub stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=danieldiaz98&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieldiaz98&layout=compact&hide_border=true&langs_count=8" alt="Top languages" />
-
-</div>
-
----
-
 ## Experience
 
 **Associate Backend Engineer** · Aplicaciones Informáticas Domingo Alonso S.L.U. · `08/2025 - 08/2026`
