@@ -44,9 +44,8 @@ I care about clean architecture, testing and maintainable code, and I enjoy buil
 
 **Frontend**
 
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
-![Blazor](https://img.shields.io/badge/Blazor-512BD4?logo=blazor&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
 
 **Databases & services**
