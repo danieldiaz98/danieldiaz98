@@ -73,7 +73,7 @@ REST API that calculates the **forest fire risk index in the Canary Islands**. I
 
 `Python` · `FastAPI` · `Pydantic` · `Open-Meteo` · `Pytest`
 
-### [SurfTFG](https://github.com/danieldiaz98/surftfg)
+### [Waver](https://github.com/danieldiaz98/surftfg)
 
 Web and Android application for the surfing community: discover spots, check weather conditions, share photos, follow other users and trade gear in a marketplace. Built with **React + Vite** and packaged for Android with **Capacitor**, using **Supabase** for auth and data.
 
